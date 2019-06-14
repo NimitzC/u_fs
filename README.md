@@ -1,4 +1,7 @@
 # 基于FUSE3.3的文件系统
+
+SCUT OS FINAL PROJECT, BASED ON FUSE3.3 
+
 ## 作者
 NIMITZC
 
